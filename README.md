@@ -13,10 +13,6 @@ Repository Contents
 
 * **/Hardware** - Eagle design files (.brd, .sch)
 
-
-License Information
--------------------
-
 License Information
 -------------------
 
